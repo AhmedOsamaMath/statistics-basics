@@ -42,7 +42,7 @@ Understanding data types is crucial for choosing appropriate statistical measure
 
 These measures identify the center or typical value of a dataset.
 
-### Arithmetic Mean
+### Mean
 
 - **Definition**: The sum of all values divided by the number of values
 - **Formula**: x̄ = (∑xᵢ)/n
