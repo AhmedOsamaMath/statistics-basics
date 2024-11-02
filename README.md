@@ -11,7 +11,11 @@ This document is designed to provide a thorough understanding of descriptive sta
 5. [Measures of Distribution Shape](#measures-of-distribution-shape)
 6. [Position Measurements](#position-measurements)
 7. [Visual Representations](#visual-representations)
-8. [Practical Applications](#practical-applications)
+8. [Comprehensive Example](#comprehensive-example)
+9. [Practical Applications](#practical-applications)
+10. [Conclusion](#conclusion)
+11. [Contributing](#contributing)
+12. [License](#license)
 
 ## Introduction
 
