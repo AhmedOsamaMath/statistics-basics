@@ -23,6 +23,7 @@ Descriptive statistics comprises methods for organizing, summarizing, and presen
 - **Sample**: A subset of the population used for analysis
 - **Parameter**: A numerical value that describes a population characteristic
 - **Statistic**: A numerical value that describes a sample characteristic
+- **Variable**: A characteristic or feature that can vary among the data points
 
 ## Types of Data
 
