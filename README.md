@@ -6,7 +6,7 @@ This document is designed to provide a thorough understanding of descriptive sta
 
 💡 **Pro Tip**: Star this repository to keep it handy for future reference!
 
-## Table of Contents
+## 📚 Table of Contents
 
 1. [Introduction](#introduction)
 2. [Key Concepts](#key-concepts)
@@ -22,7 +22,7 @@ This document is designed to provide a thorough understanding of descriptive sta
 12. [Contributing](#contributing)
 13. [License](#license)
 
-## Introduction
+## 🚀 Introduction
 
 Descriptive statistics comprises methods for organizing, summarizing, and presenting data in an informative way. These techniques help researchers and analysts understand the main features of data collections without necessarily analyzing every single observation.
 
@@ -564,10 +564,10 @@ print(f"  Lowest monthly growth: {np.min(growth_rates):.1f}%")
 
 Descriptive statistics form the backbone of data analysis, helping transform raw data into meaningful insights. By leveraging Python, analyzing data becomes efficient and reproducible.
 
-## Contributing
+## 🚩 Contributing
 
 Feel free to submit pull requests or open issues for improvements.
 
-## License
+## 📝 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
