@@ -2,6 +2,8 @@
 
 This document is designed to provide a thorough understanding of descriptive statistics, complete with practical examples and Python implementations for real-world data analysis.
 
+💡 **Pro Tip**: Star this repository to keep it handy for future reference!
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
