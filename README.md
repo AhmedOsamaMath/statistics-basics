@@ -1,3 +1,5 @@
+![Descriptive Statistics](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Descriptive%20Statistics&section=header&desc=DS&descAlignY=55&fontAlignY=35&descAlign=50&descSize=20&animation=fadeIn&fontSize=50 "Linux Basics")
+
 # Descriptive Statistics: A Comprehensive Guide
 
 This document is designed to provide a thorough understanding of descriptive statistics, complete with practical examples and Python implementations for real-world data analysis.
