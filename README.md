@@ -1,4 +1,4 @@
-![Descriptive Statistics](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Descriptive%20Statistics&section=header&desc=DS&descAlignY=55&fontAlignY=35&descAlign=50&descSize=20&animation=fadeIn&fontSize=50 "Linux Basics")
+![Comprehensive Statistics Guide: A complete resource covering fundamental statistical concepts, methods, and practical applications](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Statistics%20Guide&section=header&desc=A%20complete%20resource%20covering%20fundamental%20statistical%20concepts,%20methods,%20and%20practical%20applications&descAlignY=55&fontAlignY=35&descAlign=50&descSize=17&animation=fadeIn&fontSize=40 "Statistics Guide")
 
 # Descriptive Statistics: A Comprehensive Guide
 
