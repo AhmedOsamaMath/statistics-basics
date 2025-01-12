@@ -1,2 +1,34 @@
-title: "Statistics Basics"
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+# Site settings
+title: Statistics Basics
+description: A complete guide covering fundamental statistics concepts, techniques, and practical applications
+baseurl: "/statistics-basics"
+url: "https://ahmedosamamath.github.io/" 
+
+# Theme settings
+search_enabled: true
+heading_anchors: true
+
+# Color scheme
+color_scheme: dark
+
+# Navigation
+nav_external_links:
+  - title: GitHub Repository
+    url: https://github.com/AhmedOsamaMath/statistics-basics
+    hide_icon: false
+
+# Footer content
+footer_content: "Copyright &copy; 2025. Distributed under MIT license."
+
+# Collections
+collections:
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation
